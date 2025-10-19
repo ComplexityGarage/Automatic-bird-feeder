@@ -1,4 +1,4 @@
-# Bird feeder AI 
+# Automatic bird feeder
 # Authors 
 - Anastasiia Britan
 - Author 2
